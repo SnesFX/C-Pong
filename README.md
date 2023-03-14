@@ -4,7 +4,7 @@
 
 # How to build
 
-* Windows: Msys2,SDl2 and the make command
+* Windows: MSYS2,SDl2 and the make command
 
 * Linux: SDL2 and the make command
 
